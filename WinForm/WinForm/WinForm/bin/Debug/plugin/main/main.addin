@@ -1,0 +1,26 @@
+<Property>
+<PluginInfo  
+                 author="zm"
+	               name="Main Plugin" 
+	               type="Others" 
+	               description="This is the MainPlugin"
+	               token="Main"
+ 	               class="MainPlugin.SamplePlugin"
+                 icon="xx.ico"
+ />
+  
+<Assembly   
+                 assembly="MainPlugin.dll" 
+/>
+
+<MutableResource    
+                 class="MainPlugin.MainMutableResource" 
+/>
+
+<Project   
+                 name="MainProject" 
+	               class="MainPlugin.MainProject"
+                 suffix="first" 
+/> 
+
+</Property>

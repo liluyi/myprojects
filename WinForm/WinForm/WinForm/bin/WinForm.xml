@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Platform>
+    <Runtime>
+        <Services>
+            <LoggingService class="TextWriterLoggingService" start="autostart" type="TextWriter" description="LoggingService" />
+            <PluginsService  class="PluginService" start="autostart" root="plugin" description="PluginService" />
+            <UIService      class="UIService"  start="autostart" description="UIService" />
+	    <FileService    class="FileService" start="autostart" description="FileService" />
+            <ProjectService class="ProjectService" start="autostart" description="ProjectService" />
+        </Services>
+        <Project defaultSavePath="../project" />
+        <Plugin root="/plugin" allowUserPlugin="true" />
+    </Runtime>
+
+    <Data class="" />
+</Platform>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WinForm">
+</Property><Property Name="解决方案文件" Value="F:\CASREE\WinForm\WinForm.sln">
+</Property><Property Name="Date" Value="2011年8月24日">
+</Property><Property Name="Time" Value="12:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WinForm.sln" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm.sln">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\WinForm.csproj" Description="项目文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\WinForm.csproj">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\ExceptionBox.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\ExceptionBox.cs">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\ExceptionBox.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\ExceptionBox.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\WinForm.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\WinForm.cs">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\WinForm.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\WinForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\Program.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\Program.cs">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\Properties\Settings.settings" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\ExceptionBox.resx" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\ExceptionBox.resx">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\Properties\Resources.resx" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\WinForm.resx" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\WinForm\WinForm.resx">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\WinForm.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="WinForm" Source="WinForm\WinForm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Platform.Core.csproj" Description="项目文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Platform.Core.csproj">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\CoreStartUp\CoreStartUp.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\CoreStartUp\CoreStartUp.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Engine.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Engine.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Exception\CoreException.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Exception\CoreException.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Exception\PluginException.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Exception\PluginException.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Exception\PropertyAnalyseException.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Exception\PropertyAnalyseException.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Exception\RuntimeException.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Exception\RuntimeException.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Exception\ServiceException.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Exception\ServiceException.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Plugin\PluginInfo.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Plugin\PluginInfo.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Plugin\PluginManager.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Plugin\PluginManager.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Plugin\PluginTree.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Plugin\PluginTree.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Plugin\PluginTreeNode.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Plugin\PluginTreeNode.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Project\ProjectManager.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Project\ProjectManager.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\PropertyAnalyse.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\PropertyAnalyse.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\FileService\FileService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\FileService\FileService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\FileService\IFileService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\FileService\IFileService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\PluginService\IPluginsService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\PluginService\IPluginsService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\PluginService\PluginsService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\PluginService\PluginsService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\ProjectService\ProjectService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\ProjectService\ProjectService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\ProjectService\IProjectService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\ProjectService\IProjectService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\UIService\IUIService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\UIService\IUIService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\UIService\UIService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\UIService\UIService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Plugin\Plugin.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Plugin\Plugin.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Project\IProject.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Project\IProject.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Property\PropertyEvent.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Property\PropertyEvent.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Property\Properties.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Property\Properties.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Runtime.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Runtime.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\IService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\IService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\LoggingService\ILoggingService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\LoggingService\ILoggingService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\LoggingService\SystemLoggingService.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\LoggingService\SystemLoggingService.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Services\ServicesManager.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\Services\ServicesManager.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\UI\IUI.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Platform.Core\UI\IUI.cs">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Platform.Core.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Platform.Core" Source="Platform.Core\Platform.Core.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\MainPlugin.csproj" Description="项目文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\MainPlugin.csproj">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\BuildPlugin.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\BuildPlugin.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\BuildPlugin.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\BuildPlugin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\InfoViewForm.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\InfoViewForm.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\InfoViewForm.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\InfoViewForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\MainPlugin.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\MainPlugin.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\ProjectView.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\ProjectView.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\ProjectView.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\ProjectView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\TabViewForm.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\TabViewForm.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\TabViewForm.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\TabViewForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\TreeViewForm.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\TreeViewForm.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\TreeViewForm.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\TreeViewForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\BuildPlugin.resx" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\BuildPlugin.resx">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\ProjectView.resx" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\ProjectView.resx">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\TabViewForm.resx" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\TabViewForm.resx">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\TreeViewForm.resx" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\MainPlugin\TreeViewForm.resx">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\MainPlugin.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MainPlugin" Source="MainPlugin\MainPlugin.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstPlugin.csproj" Description="项目文件已成功备份为 F:\CASREE\WinForm\Backup\FirstPlugin\FirstPlugin.csproj">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstInfoView.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\FirstPlugin\FirstInfoView.cs">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstInfoView.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\FirstPlugin\FirstInfoView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstPlugin.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\FirstPlugin\FirstPlugin.cs">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstTabView.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\FirstPlugin\FirstTabView.cs">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstTabView.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\FirstPlugin\FirstTabView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstTreeView.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\FirstPlugin\FirstTreeView.cs">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstTreeView.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\FirstPlugin\FirstTreeView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\FirstPlugin\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstTabView.resx" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\FirstPlugin\FirstTabView.resx">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstPlugin.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="FirstPlugin" Source="FirstPlugin\FirstPlugin.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Second.csproj" Description="项目文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Second.csproj">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Resource.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Resource.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Second.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Second.cs">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\SecondInfoView.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\SecondInfoView.cs">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\SecondInfoView.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\SecondInfoView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\SecondTabView.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\SecondTabView.cs">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\SecondTabView.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\SecondTabView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\SecondTreeView.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\SecondTreeView.cs">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\SecondTreeView.Designer.cs" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\SecondTreeView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Resources\copy.gif" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Resources\copy.gif">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Resources\cut.gif" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Resources\cut.gif">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Resources\new.png" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Resources\new.png">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Resources\open.gif" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Resources\open.gif">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Resources\paste.gif" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Resources\paste.gif">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Resources\redo.gif" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Resources\redo.gif">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Resources\save.gif" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Resources\save.gif">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Resources\undo.gif" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Resources\undo.gif">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Resource.resx" Description="文件已成功备份为 F:\CASREE\WinForm\Backup\Second\Resource.resx">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Second.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Second" Source="Second\Second.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WinForm.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="WinForm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WinForm" Source="WinForm\WinForm.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Platform.Core" Source="Platform.Core\Platform.Core.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="MainPlugin" Source="MainPlugin\MainPlugin.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="FirstPlugin" Source="FirstPlugin\FirstPlugin.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Second" Source="Second\Second.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

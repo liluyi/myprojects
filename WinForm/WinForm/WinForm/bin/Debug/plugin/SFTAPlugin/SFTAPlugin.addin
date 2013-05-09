@@ -1,0 +1,23 @@
+<Property>
+  <PluginInfo
+                   author="liluyi"
+                   name="CASREE_SFTA Plugin"
+                   type="Others"
+                   description="This is SFTA Plugin"
+                   token="fta"
+                   class="SFTAPlugin.SFTAPlugin"
+                   icon="xx.ico"
+ />
+  <Assembly
+                   assembly="SFTAPlugin.dll"
+/>
+  <MutableResource
+                   class="SFTAPlugin.SFTAMutableResource"
+/>
+
+  <Project
+                   name="SFTAProject"
+                   class="SFTAPlugin.SFTAProject"
+                   suffix="fta"
+/>
+</Property>

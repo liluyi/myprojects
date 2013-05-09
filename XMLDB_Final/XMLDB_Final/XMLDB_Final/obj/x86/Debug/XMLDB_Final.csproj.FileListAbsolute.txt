@@ -1,0 +1,10 @@
+E:\Visual Studio 2010\XMLDB_Final\XMLDB_Final\bin\Debug\XMLDB_Final.exe
+E:\Visual Studio 2010\XMLDB_Final\XMLDB_Final\bin\Debug\XMLDB_Final.pdb
+E:\Visual Studio 2010\XMLDB_Final\XMLDB_Final\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\XMLDB_Final\XMLDB_Final\obj\x86\Debug\XMLDB_Final.exe
+E:\Visual Studio 2010\XMLDB_Final\XMLDB_Final\obj\x86\Debug\XMLDB_Final.pdb
+D:\Projects\XMLDB_Final\XMLDB_Final\XMLDB_Final\obj\x86\Debug\XMLDB_Final.exe
+D:\Projects\XMLDB_Final\XMLDB_Final\XMLDB_Final\obj\x86\Debug\XMLDB_Final.pdb
+D:\Projects\XMLDB_Final\XMLDB_Final\XMLDB_Final\bin\Debug\XMLDB_Final.exe
+D:\Projects\XMLDB_Final\XMLDB_Final\XMLDB_Final\bin\Debug\XMLDB_Final.pdb
+D:\Projects\XMLDB_Final\XMLDB_Final\XMLDB_Final\obj\x86\Debug\XMLDB_Final.csprojResolveAssemblyReference.cache

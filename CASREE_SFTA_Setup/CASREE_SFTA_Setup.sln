@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CASREE_SFTA_Setup", "CASREE_SFTA_Setup\CASREE_SFTA_Setup.vdproj", "{CC1D73F6-299D-4E44-B59B-5B710DF6FF72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1D73F6-299D-4E44-B59B-5B710DF6FF72}.Debug|Default.ActiveCfg = Debug
+		{CC1D73F6-299D-4E44-B59B-5B710DF6FF72}.Debug|Default.Build.0 = Debug
+		{CC1D73F6-299D-4E44-B59B-5B710DF6FF72}.Release|Default.ActiveCfg = Release
+		{CC1D73F6-299D-4E44-B59B-5B710DF6FF72}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

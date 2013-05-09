@@ -1,0 +1,17 @@
+C:\Users\Joe\Documents\Casree\20111109\plugin\SratPlugin\SratPlugin.dll
+C:\Users\Joe\Documents\Casree\20111109\plugin\SratPlugin\SratPlugin.pdb
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\bin\Debug\plugin\SratPlugin\SratPlugin.dll
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\bin\Debug\plugin\SratPlugin\SratPlugin.pdb
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\bin\Debug\plugin\SratPlugin\Platform.Core.dll
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\bin\Debug\plugin\SratPlugin\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\bin\Debug\plugin\SratPlugin\log4net.dll
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\bin\Debug\plugin\SratPlugin\Platform.Core.pdb
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\bin\Debug\plugin\SratPlugin\Platform.Core.xml
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\obj\Debug\SratPlugin.SratTabView.resources
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\obj\Debug\SratPlugin.SratTreeView.resources
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\obj\Debug\SratPlugin.dll.licenses
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\obj\Debug\SratPlugin.dll
+C:\Users\Joe\Documents\Casree\SratPlugin\SratPlugin\obj\Debug\SratPlugin.pdb

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CASREE_Database">
+  <DataContextMoniker Name="/CASREE_DatabaseDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e4c9671a-c6a2-4c2a-9192-4dc429c6924f" absoluteBounds="1.25, 1.75, 2, 1.3805261230468751">
+      <DataClassMoniker Name="/CASREE_DatabaseDataContext/casree_user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="be285eb1-6df5-4b6d-8aa8-b7cb8f3beb62" absoluteBounds="1.2650000000000001, 2.21, 1.9700000000000002, 0.820526123046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e666fe4b-393a-4002-be89-1f78fcbe116d" absoluteBounds="3.625, 1.75, 2, 1.3805261230468751">
+      <DataClassMoniker Name="/CASREE_DatabaseDataContext/casree_permission" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8d26e926-ed3d-4c8c-b3b4-8fc3192ba836" absoluteBounds="3.6399999999999997, 2.21, 1.9700000000000002, 0.820526123046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.32422388352614 : 3.13052612304688); (4.32422388352614 : 3.38052612304688); (4.9400987886869 : 3.38052612304688); (4.9400987886869 : 3.13052612304688)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/CASREE_DatabaseDataContext/casree_permission/casree_permission_casree_permission" />
+      <nodes>
+        <classShapeMoniker Id="e666fe4b-393a-4002-be89-1f78fcbe116d" />
+        <classShapeMoniker Id="e666fe4b-393a-4002-be89-1f78fcbe116d" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="c178c018-cccf-4444-b013-8d57512e0a9d" absoluteBounds="3.75, 3.625, 2, 1.1895064290364583">
+      <DataClassMoniker Name="/CASREE_DatabaseDataContext/casree_solutionProgress" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f1a0bc82-be99-45d4-8b5d-49d1fbb3b025" absoluteBounds="3.7649999999999997, 4.085, 1.9700000000000002, 0.62950642903645826" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="07998a6d-4064-4b64-b733-5467fa5a28f1" absoluteBounds="1.125, 3.75, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/CASREE_DatabaseDataContext/casree_solution" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34f0d6b6-0b3e-4f45-ad82-846ca00ae167" absoluteBounds="1.1400000000000001, 4.21, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b5856259-7e4f-4df8-8f90-95c87e80f265" absoluteBounds="3.75, 5.125, 2, 1.3805261230468751">
+      <DataClassMoniker Name="/CASREE_DatabaseDataContext/casree_projectVersion" />
+      <nestedChildShapes>
+        <elementListCompartment Id="de46c8c6-9607-4a9d-b0cf-b193603814e3" absoluteBounds="3.7649999999999997, 5.585, 1.9700000000000002, 0.820526123046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

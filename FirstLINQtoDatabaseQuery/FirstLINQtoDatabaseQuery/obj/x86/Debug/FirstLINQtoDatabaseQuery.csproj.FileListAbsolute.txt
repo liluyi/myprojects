@@ -1,0 +1,8 @@
+D:\Projects\FirstLINQtoDatabaseQuery\FirstLINQtoDatabaseQuery\bin\Debug\NORTHWND.MDF
+D:\Projects\FirstLINQtoDatabaseQuery\FirstLINQtoDatabaseQuery\bin\Debug\NORTHWND_log.ldf
+D:\Projects\FirstLINQtoDatabaseQuery\FirstLINQtoDatabaseQuery\bin\Debug\FirstLINQtoDatabaseQuery.exe.config
+D:\Projects\FirstLINQtoDatabaseQuery\FirstLINQtoDatabaseQuery\bin\Debug\FirstLINQtoDatabaseQuery.exe
+D:\Projects\FirstLINQtoDatabaseQuery\FirstLINQtoDatabaseQuery\bin\Debug\FirstLINQtoDatabaseQuery.pdb
+D:\Projects\FirstLINQtoDatabaseQuery\FirstLINQtoDatabaseQuery\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\FirstLINQtoDatabaseQuery\FirstLINQtoDatabaseQuery\obj\x86\Debug\FirstLINQtoDatabaseQuery.exe
+D:\Projects\FirstLINQtoDatabaseQuery\FirstLINQtoDatabaseQuery\obj\x86\Debug\FirstLINQtoDatabaseQuery.pdb

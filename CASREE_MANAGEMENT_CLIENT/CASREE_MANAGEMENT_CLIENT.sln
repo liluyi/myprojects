@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CASREE_MANAGEMENT_CLIENT", "CASREE_MANAGEMENT_CLIENT\CASREE_MANAGEMENT_CLIENT.csproj", "{E29C3396-F81F-4F9E-8293-9973D3ED1101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientBase", "..\CASREE_V_01\ClientBase\ClientBase.csproj", "{AD5FC64B-62B6-41B5-ABA5-5C8D88718738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerBase", "..\CASREE_V_01\ServerBase\ServerBase.csproj", "{27CF62E8-14CE-45E2-ABC6-4D22AED32C25}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CASREE_MANAGEMENT_CLIENT\\CASREE_MANAGEMENT_CLIENT.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = CASREE_MANAGEMENT_CLIENT\\
+		SccProjectUniqueName2 = ..\\CASREE_V_01\\ClientBase\\ClientBase.csproj
+		SccProjectName2 = \u0022$/CASREE_MANAGEMENT_CLIENT.root/CASREE_V_01\u0022,\u0020FOAAAAAA
+		SccLocalPath2 = ..\\CASREE_V_01
+		SccProjectFilePathRelativizedFromConnection2 = ClientBase\\
+		SccProjectUniqueName3 = ..\\CASREE_V_01\\ServerBase\\ServerBase.csproj
+		SccProjectName3 = \u0022$/CASREE_MANAGEMENT_CLIENT.root/CASREE_V_01\u0022,\u0020FOAAAAAA
+		SccLocalPath3 = ..\\CASREE_V_01
+		SccProjectFilePathRelativizedFromConnection3 = ServerBase\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E29C3396-F81F-4F9E-8293-9973D3ED1101}.Debug|x86.ActiveCfg = Debug|x86
+		{E29C3396-F81F-4F9E-8293-9973D3ED1101}.Debug|x86.Build.0 = Debug|x86
+		{E29C3396-F81F-4F9E-8293-9973D3ED1101}.Release|x86.ActiveCfg = Release|x86
+		{E29C3396-F81F-4F9E-8293-9973D3ED1101}.Release|x86.Build.0 = Release|x86
+		{AD5FC64B-62B6-41B5-ABA5-5C8D88718738}.Debug|x86.ActiveCfg = Debug|x86
+		{AD5FC64B-62B6-41B5-ABA5-5C8D88718738}.Debug|x86.Build.0 = Debug|x86
+		{AD5FC64B-62B6-41B5-ABA5-5C8D88718738}.Release|x86.ActiveCfg = Release|x86
+		{AD5FC64B-62B6-41B5-ABA5-5C8D88718738}.Release|x86.Build.0 = Release|x86
+		{27CF62E8-14CE-45E2-ABC6-4D22AED32C25}.Debug|x86.ActiveCfg = Debug|x86
+		{27CF62E8-14CE-45E2-ABC6-4D22AED32C25}.Debug|x86.Build.0 = Debug|x86
+		{27CF62E8-14CE-45E2-ABC6-4D22AED32C25}.Release|x86.ActiveCfg = Release|x86
+		{27CF62E8-14CE-45E2-ABC6-4D22AED32C25}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿<Platform>
+    <Runtime>
+        <LoggingService name="LoggingService" description="日志记录服务"  />
+        <LoggingService name="xxx" />
+    </Runtime>
+</Platform>

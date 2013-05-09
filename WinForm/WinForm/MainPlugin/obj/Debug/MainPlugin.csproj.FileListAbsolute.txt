@@ -1,0 +1,90 @@
+E:\Test\WinForm\MainPlugin\obj\Debug\ResolveAssemblyReference.cache
+E:\Test\WinForm\MainPlugin\bin\Debug\MainPlugin.dll
+E:\Test\WinForm\MainPlugin\bin\Debug\MainPlugin.pdb
+E:\Test\WinForm\MainPlugin\bin\Debug\Platform.Core.dll
+E:\Test\WinForm\MainPlugin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Test\WinForm\MainPlugin\bin\Debug\Platform.Core.pdb
+E:\Test\WinForm\MainPlugin\obj\Debug\MainPlugin.dll
+E:\Test\WinForm\MainPlugin\obj\Debug\MainPlugin.pdb
+E:\Test\WinForm\MainPlugin\obj\Debug\MainPlugin.TreeViewForm.resources
+E:\Test\WinForm\MainPlugin\obj\Debug\MainPlugin.csproj.GenerateResource.Cache
+E:\Test\WinForm\MainPlugin\obj\Debug\MainPlugin.TabViewForm.resources
+E:\Test\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.dll
+E:\Test\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.pdb
+E:\Test\WinForm\MainPlugin\obj\Debug\MainPlugin.BuildPlugin.resources
+F:\Platform\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.dll
+F:\Platform\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.pdb
+F:\Platform\WinForm\MainPlugin\obj\Debug\ResolveAssemblyReference.cache
+F:\Platform\WinForm\MainPlugin\obj\Debug\MainPlugin.BuildPlugin.resources
+F:\Platform\WinForm\MainPlugin\obj\Debug\MainPlugin.TabViewForm.resources
+F:\Platform\WinForm\MainPlugin\obj\Debug\MainPlugin.TreeViewForm.resources
+F:\Platform\WinForm\MainPlugin\obj\Debug\MainPlugin.csproj.GenerateResource.Cache
+F:\Platform\WinForm\MainPlugin\obj\Debug\MainPlugin.dll
+F:\Platform\WinForm\MainPlugin\obj\Debug\MainPlugin.pdb
+F:\Platform\WinForm\MainPlugin\obj\Debug\MainPlugin.ProjectView.resources
+F:\CASREE\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.dll
+F:\CASREE\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.pdb
+F:\CASREE\WinForm\MainPlugin\obj\Debug\ResolveAssemblyReference.cache
+F:\CASREE\WinForm\MainPlugin\obj\Debug\MainPlugin.BuildPlugin.resources
+F:\CASREE\WinForm\MainPlugin\obj\Debug\MainPlugin.ProjectView.resources
+F:\CASREE\WinForm\MainPlugin\obj\Debug\MainPlugin.TabViewForm.resources
+F:\CASREE\WinForm\MainPlugin\obj\Debug\MainPlugin.TreeViewForm.resources
+F:\CASREE\WinForm\MainPlugin\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\CASREE\WinForm\MainPlugin\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\CASREE\WinForm\MainPlugin\obj\Debug\MainPlugin.dll
+F:\CASREE\WinForm\MainPlugin\obj\Debug\MainPlugin.pdb
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\Main\Resources\Close.png
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.dll
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.pdb
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\ResolveAssemblyReference.cache
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.AuthenticationForm.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.BuildPlugin.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.ConnectProgressForm.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.CreateProjectForm.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.ProgramListForm.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.ProjectListForm.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.ProjectView.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.Properties.Resources.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.SaveProject.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.TabViewForm.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.TreeViewForm.resources
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\GenerateResource.read.1.tlog
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\GenerateResource.write.1.tlog
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.dll
+F:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.pdb
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\Main\Resources\Close.png
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.dll
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.pdb
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.AuthenticationForm.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.BuildPlugin.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.ConnectProgressForm.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.CreateProjectForm.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.ProgramListForm.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.ProjectListForm.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.ProjectView.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.Properties.Resources.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.SaveProject.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.TabViewForm.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.TreeViewForm.resources
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.dll
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.pdb
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.csproj.GenerateResource.Cache
+E:\CASREE Source Code\WinForm\MainPlugin\obj\Debug\MainPlugin.csprojResolveAssemblyReference.cache
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\plugin\Main\Resources\Close.png
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.dll
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\plugin\Main\MainPlugin.pdb
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.csprojResolveAssemblyReference.cache
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.AuthenticationForm.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.BuildPlugin.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.ConnectProgressForm.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.CreateProjectForm.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.ProgramListForm.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.ProjectListForm.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.ProjectView.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.Properties.Resources.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.SaveProject.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.TabViewForm.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.TreeViewForm.resources
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.csproj.GenerateResource.Cache
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.dll
+D:\Projects\WinForm\WinForm\MainPlugin\obj\Debug\MainPlugin.pdb

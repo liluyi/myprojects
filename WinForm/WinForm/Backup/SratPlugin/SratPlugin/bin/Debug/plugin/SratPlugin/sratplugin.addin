@@ -1,0 +1,22 @@
+<Property>
+<PluginInfo
+                   author="lxl"
+                   name="SratPlugin"
+                   type="Others"
+                   description="This is the SratPlugin"
+                   token="Srat"
+                   class="SratPlugin.SratPlugin"
+                   icon="xx.ico"
+/>
+<Assembly
+                   assembly="SratPlugin.dll"
+/>
+<MutableResource
+                   class="SratPlugin.SratMutableResource"
+/>
+<Project
+                   name="SratProject"
+                   class="SratPlugin.SratProject"
+                   suffix="Srat"
+/>
+</Property>

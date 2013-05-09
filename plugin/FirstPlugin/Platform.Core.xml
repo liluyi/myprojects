@@ -1,0 +1,765 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Platform.Core</name>
+    </assembly>
+    <members>
+        <member name="T:Platform.Core.Services.IService">
+            <summary>
+            服务的接口
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Services.IService.Description">
+            <summary>
+            当前服务的描述
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Services.IService.Name">
+            <summary>
+            当前服务的名称
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Services.IService.Level">
+            <summary>
+            当前服务的优先级
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Services.IService.State">
+            <summary>
+            当前服务的状态
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Services.IService.InitService">
+            <summary>
+            服务初始化委托,初始化无误的话则State转为ServiceState.Inital状态
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Services.IService.LoadingService">
+            <summary>
+            服务加载时委托，加载无误时则State转为Services.Load状态
+            </summary>
+        </member>
+        <member name="P:Platform.Core.PropertyChangedEventArgs.Properties">
+            <returns>
+            returns the changed property object
+            </returns>
+        </member>
+        <member name="P:Platform.Core.PropertyChangedEventArgs.Key">
+            <returns>
+            The key of the changed property
+            </returns>
+        </member>
+        <member name="P:Platform.Core.PropertyChangedEventArgs.NewValue">
+            <returns>
+            The new value of the property
+            </returns>
+        </member>
+        <member name="P:Platform.Core.PropertyChangedEventArgs.OldValue">
+            <returns>
+            The new value of the property
+            </returns>
+        </member>
+        <member name="M:Platform.Core.Services.IProjectService.OpenProject(System.String)">
+            <summary>
+            打开路径path的工程文件
+            </summary>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Platform.Core.Services.IProjectService.SaveProject(Platform.Core.Data.AbstractProject)">
+            <summary>
+            按照project的路径配置保存工程
+            </summary>
+            <param name="project"></param>
+        </member>
+        <member name="M:Platform.Core.Services.IProjectService.SavaAsProject(Platform.Core.Data.AbstractProject,System.String)">
+            <summary>
+            工程文件另存为saveaspath路径下
+            </summary>
+            <param name="project">工程文件</param>
+            <param name="saveasPath">保存的路径</param>
+        </member>
+        <member name="T:Platform.Core.Services.PluginRequstType">
+            <summary>
+            插件与平台通讯类型
+            </summary>
+        </member>
+        <member name="T:Platform.Core.ProjectManager">
+            <summary>
+            工程管理器
+            </summary>
+        </member>
+        <member name="M:Platform.Core.ProjectManager.#ctor">
+            <summary>
+            私有构造函数
+            </summary>
+        </member>
+        <member name="M:Platform.Core.ProjectManager.InsertProject(Platform.Core.Data.AbstractProject)">
+            <summary>
+            将工程插入队列中
+            </summary>
+            <param name="project">要插入的工程</param>
+            <returns>是否成功插入</returns>
+        </member>
+        <member name="M:Platform.Core.ProjectManager.RemoveProject(System.String)">
+            <summary>
+            在工程结束时从队列中移除
+            </summary>
+            <param name="projectUUID">移除的工程的标识</param>
+            <returns>是否成功移除</returns>
+        </member>
+        <member name="P:Platform.Core.ProjectManager.ProjectManagerSington">
+            <summary>
+            工程管理器(单例模式)
+            </summary>
+        </member>
+        <member name="T:Platform.Core.ServicesManager">
+            <summary>
+            服务管理者
+            </summary>
+        </member>
+        <member name="F:Platform.Core.ServicesManager.FailedService">
+            <summary>
+            加载自启动失败的任务
+            </summary>
+        </member>
+        <member name="M:Platform.Core.ServicesManager.BuildServiceManager">
+            <summary>
+            加载自启动服务管理
+            </summary>
+        </member>
+        <member name="M:Platform.Core.ServicesManager.InitAutoStartService(System.Object,System.EventArgs)">
+            <summary>
+            初始化自启动服务
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+        </member>
+        <member name="M:Platform.Core.ServicesManager.LoadingService(System.Object,System.EventArgs)">
+            <summary>
+            加载服务管理器中注册的服务
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+        </member>
+        <member name="P:Platform.Core.ServicesManager.ServicesManagerSingleton">
+            <summary>
+            服务管理者(单例)
+            </summary>
+        </member>
+        <member name="P:Platform.Core.ServicesManager.LoggingService">
+            <summary>
+            日志服务
+            </summary>
+        </member>
+        <member name="P:Platform.Core.ServicesManager.PluginsService">
+            <summary>
+            插件服务
+            </summary>
+        </member>
+        <member name="P:Platform.Core.ServicesManager.UIService">
+            <summary>
+            UI服务
+            </summary>
+        </member>
+        <member name="P:Platform.Core.ServicesManager.FileService">
+            <summary>
+            文件服务
+            </summary>
+        </member>
+        <member name="P:Platform.Core.ServicesManager.ProjectService">
+            <summary>
+            工程服务
+            </summary>
+        </member>
+        <member name="T:Platform.Core.PluginType">
+            <summary>
+            插件类别
+            </summary>
+        </member>
+        <member name="T:Platform.Core.IPlugin">
+            <summary>
+            插件接口
+            </summary>
+        </member>
+        <member name="P:Platform.Core.IPlugin.PluginMenus">
+            <summary>
+            插件菜单资源
+            </summary>
+        </member>
+        <member name="P:Platform.Core.IPlugin.PluginTools">
+            <summary>
+            插件工具栏资源
+            </summary>
+        </member>
+        <member name="P:Platform.Core.IPlugin.Token">
+            <summary>
+            插件本身的Token标识，这个标识是唯一的（可对此Token添加检查，防止没授权的插件添加至平台中来）
+            </summary>
+        </member>
+        <member name="P:Platform.Core.IPlugin.MutableResourceClassFullName">
+            <summary>
+            其它可活动资源的类全名，用于反射时构造这些资源时用
+            </summary>
+        </member>
+        <member name="T:Platform.Core.PluginInfo">
+            <summary>
+            插件信息
+            </summary>
+        </member>
+        <member name="F:Platform.Core.PluginInfo.Description">
+            <summary>
+            插件描述
+            </summary>
+        </member>
+        <member name="F:Platform.Core.PluginInfo.Type">
+            <summary>
+            插件类别
+            </summary>
+        </member>
+        <member name="F:Platform.Core.PluginInfo.Author">
+            <summary>
+            插件作者
+            </summary>
+        </member>
+        <member name="F:Platform.Core.PluginInfo.Token">
+            <summary>
+            插件Token标识
+            </summary>
+        </member>
+        <member name="M:Platform.Core.PluginInfo.#ctor">
+            <summary>
+            插件信息构造函数
+            </summary>
+        </member>
+        <member name="M:Platform.Core.PluginInfo.ToString">
+            <summary>
+            重写ToString方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Platform.Core.MutableResource">
+            <summary>
+            插件的可活动资源
+            </summary>
+        </member>
+        <member name="F:Platform.Core.MutableResource.UUID">
+            <summary>
+            所关联的Project的ID
+            </summary>
+        </member>
+        <member name="T:Platform.Core.StartUpSettings">
+            <summary>
+            Core启动配置
+            </summary>
+        </member>
+        <member name="F:Platform.Core.StartUpSettings.xmlFileName">
+            <summary>
+            Core启动配置文件
+            </summary>
+        </member>
+        <member name="F:Platform.Core.StartUpSettings.PluginProperties">
+            <summary>
+            插件属性，主要信息为插件的根目录等
+            </summary>
+        </member>
+        <member name="F:Platform.Core.StartUpSettings.ProjectProperties">
+            <summary>
+            工程属性，主要信息为工程目录信息等
+            </summary>
+        </member>
+        <member name="F:Platform.Core.StartUpSettings.ServiceProperties">
+            <summary>
+            平台系统服务配置信息
+            </summary>
+        </member>
+        <member name="F:Platform.Core.StartUpSettings.serviceList">
+            <summary>
+            平台服务列表
+            </summary>
+        </member>
+        <member name="M:Platform.Core.StartUpSettings.#ctor(System.String)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="xmlFileName">Core配置文件</param>
+        </member>
+        <member name="M:Platform.Core.StartUpSettings.AnalyseXml">
+            <summary>
+            Core分析配置文件
+            </summary>
+        </member>
+        <member name="T:Platform.Core.CoreStartUp">
+            <summary>
+            Core启动类
+            </summary>
+        </member>
+        <member name="F:Platform.Core.CoreStartUp.startupsetting">
+            <summary>
+            启动配置
+            </summary>
+        </member>
+        <member name="M:Platform.Core.CoreStartUp.#ctor(Platform.Core.StartUpSettings)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="startupsetting">引导Core启动的配置</param>
+        </member>
+        <member name="M:Platform.Core.CoreStartUp.InitServicesManager(Platform.Core.ServicesManager@,System.Windows.Forms.Form)">
+            <summary>
+            初始化服务管理者
+            </summary>
+            <param name="ssm">服务管理者</param>
+            <param name="mainForm">Core寄宿的主窗体</param>
+        </member>
+        <member name="M:Platform.Core.CoreStartUp.InitPluginsManager(Platform.Core.PluginsManager@)">
+            <summary>
+            初始化插件管理者
+            </summary>
+            <param name="pm">插件管理者</param>
+        </member>
+        <member name="T:Platform.Core.RequstType">
+            <summary>
+            平台与运行时请求交互的类型
+            </summary>
+        </member>
+        <member name="T:Platform.Core.RuntimeEventArgs">
+            <summary>
+            交互时运行参数
+            </summary>
+        </member>
+        <member name="F:Platform.Core.RuntimeEventArgs.requstType">
+            <summary>
+            请求类别
+            </summary>
+        </member>
+        <member name="F:Platform.Core.RuntimeEventArgs.projectpath">
+            <summary>
+            请求的工程路径，用于直接打开工程用
+            </summary>
+        </member>
+        <member name="T:Platform.Core.RuntimeEventHandler">
+            <summary>
+            平台运行时交互的委托
+            </summary>
+            <param name="sender"></param>
+            <param name="args">请求运行时交互的参数</param>
+        </member>
+        <member name="T:Platform.Core.Runtime">
+            <summary>
+            平台运行时
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Runtime.engine">
+            <summary>
+            运行时引擎
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Runtime.configname">
+            <summary>
+            运行时配置文件
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Runtime.dealrequst">
+            <summary>
+            处理Form界面与Runtime的交互的委托
+            </summary>
+        </member>
+        <member name="M:Platform.Core.Runtime.#ctor(System.String,System.Windows.Forms.Form)">
+            <summary>
+            运行时构造函数
+            </summary>
+            <param name="configname">运行时配置文件</param>
+            <param name="mainForm">交互主窗体</param>
+        </member>
+        <member name="P:Platform.Core.Runtime.DealRequst">
+            <summary>
+            交互委托属性
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Data.UUID.projectuuid">
+            <summary>
+            工程本身的标识，由系统自动生成
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Data.UUID.pluginuuid">
+            <summary>
+            工程所关联的plugin类型，这个pluginid是与plugin一一对应的，
+            若pluginid有改动则相应的此工程可能无法打开
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Data.UUID.ProjectUUID">
+            <summary>
+            工程本身标识
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Data.UUID.PluginUUID">
+            <summary>
+            工程所关联的Plugin标识
+            </summary>
+        </member>
+        <member name="T:Platform.Core.Data.AbstractProject">
+            <summary>
+            工程基类
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Data.AbstractProject.Suffix">
+            <summary>
+            工程文件后缀
+            </summary>
+        </member>
+        <member name="T:Platform.Core.PropertyAnalyse">
+            <summary>
+            配置分析类，辅导导入配置信息
+            </summary>
+        </member>
+        <member name="M:Platform.Core.PropertyAnalyse.GetProperties(System.String,System.String)">
+            <summary>
+            从配置文件导入相应的配置信息
+            </summary>
+            <param name="platformXmlFile">平台xml配置文件</param>
+            <param name="xmlNodeName">节点名字，按Xpath的路径方式寻找</param>
+            <returns></returns>
+        </member>
+        <member name="T:Platform.Core.Services.IFileService">
+            <summary>
+            文件服务接口
+            </summary>
+        </member>
+        <member name="M:Platform.Core.Services.IFileService.CollectPluginsAddin(System.String,System.Boolean)">
+            <summary>
+            寻找目录root下所有的插件配置Addin文件
+            </summary>
+            <param name="root">插件根目录</param>
+            <param name="ignoreMain">是否忽略主插件</param>
+            <returns>所有Addin文件的路径</returns>
+        </member>
+        <member name="P:Platform.Core.Services.IUIService.LoadUI_BeforeBuildProject">
+            <summary>
+            在平台初始化装载插件UI，主要是负责菜单和工具栏的装载
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Services.IUIService.LoadUI_OnBuildProject">
+            <summary>
+            在平台建立某工程时UI的展现，主要是View，Tab，Info等窗体的装载
+            </summary>
+        </member>
+        <member name="M:Platform.Core.Services.UIService.LoadPluginMenu(Platform.Core.IPlugin)">
+            <summary>
+            加载plugin菜单
+            </summary>
+            <param name="plugin"></param>
+        </member>
+        <member name="M:Platform.Core.Services.UIService.LoadPluginTool(Platform.Core.IPlugin)">
+            <summary>
+            加载plugin工具栏
+            </summary>
+            <param name="plugin"></param>
+        </member>
+        <member name="M:Platform.Core.Services.UIService.LoadTreeView(Platform.Core.UI.BaseForm)">
+            <summary>
+            加载工程活动区域Tree视图
+            </summary>
+            <param name="bf"></param>
+        </member>
+        <member name="M:Platform.Core.Services.UIService.LoadTabView(Platform.Core.UI.BaseForm)">
+            <summary>
+            加载工程活动区域Tab视图
+            </summary>
+            <param name="bf"></param>
+        </member>
+        <member name="M:Platform.Core.Services.UIService.LoadInfoView(Platform.Core.UI.BaseForm)">
+            <summary>
+            加载工程活动区域Info视图
+            </summary>
+            <param name="bf"></param>
+        </member>
+        <member name="T:Platform.Core.Services.MainUIFrame">
+            <summary>
+            主活动界面UI框架
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Services.MainUIFrame.topStripPanel">
+            <summary>
+            菜单和工具栏的容器
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Services.MainUIFrame.mainMenuStrip">
+            <summary>
+            主菜单，从Main插件加载而来
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Services.MainUIFrame.mainStatusStrip">
+            <summary>
+            状态栏，公共
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Services.MainUIFrame.mainDockPanel">
+            <summary>
+            活动区域的Dockpanel
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Services.MainUIFrame.mainTreeView">
+            <summary>
+            主Tree视图，从Main插件加载而来
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Services.MainUIFrame.mainTabView">
+            <summary>
+            主Tab视图，从Main插件加载而来
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Services.MainUIFrame.mainInfoView">
+            <summary>
+            主Info视图，从Main插件加载而来
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Services.MainUIFrame.HasmainMutableResourceBuild">
+            <summary>
+            主活动区域是否加载（剖分）
+            </summary>
+        </member>
+        <member name="M:Platform.Core.Services.MainUIFrame.#ctor">
+            <summary>
+            UI框架，自动构建并划分UI区域
+            </summary>
+        </member>
+        <member name="F:Platform.Core.PluginsManager.pluginroot">
+            <summary>
+            插件根目录，默认为可执行文件路径下的plugin目录
+            </summary>
+        </member>
+        <member name="F:Platform.Core.PluginsManager.plugintree">
+            <summary>
+            插件树（后期考虑扩展）
+            </summary>
+        </member>
+        <member name="F:Platform.Core.PluginsManager.plugindictionary">
+            <summary>
+            插件词典
+            </summary>
+        </member>
+        <member name="F:Platform.Core.PluginsManager.plugininfodictionary">
+            <summary>
+            插件信息词典
+            </summary>
+        </member>
+        <member name="M:Platform.Core.PluginsManager.#ctor">
+            <summary>
+            私有构造函数，供内部静态变量defaultpluginsmanager初始化用
+            </summary>
+        </member>
+        <member name="F:Platform.Core.PluginsManager.defaultpluginsmanager">
+            <summary>
+            静态变量，所有PluginManager均是此对象（单例模式）
+            </summary>
+        </member>
+        <member name="M:Platform.Core.PluginsManager.GetPlugin(System.String)">
+            <summary>
+            根据token从插件词典中获取插件,为防止其他plugin修改此plugin的行为，方法设为internal
+            </summary>
+            <param name="token">token标识</param>
+            <returns>token返回的插件实例</returns>
+        </member>
+        <member name="M:Platform.Core.PluginsManager.GetAllPlugins">
+            <summary>
+            获取插件词典中所有的插件，不包含Main插件
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Platform.Core.PluginsManager.GetPluginInfo(System.String)">
+            <summary>
+            根据token获取插件信息，其它插件可以通过方法获取其它插件信息（当然在知道Token的前提下）
+            </summary>
+            <param name="token">插件token标识</param>
+            <returns>插件信息</returns>
+        </member>
+        <member name="M:Platform.Core.PluginsManager.GetAllPluginInfo">
+            <summary>
+            获取所有插件信息（不包含main插件）
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Platform.Core.PluginsManager.InsertPlugin(Platform.Core.IPlugin,Platform.Core.PluginInfo)">
+            <summary>
+            将插件及插件信息放入词典（树）方便进行管理
+            </summary>
+            <param name="plugin">插件</param>
+            <param name="info">插件信息</param>
+        </member>
+        <member name="P:Platform.Core.PluginsManager.PluginsManagerSington">
+            <summary>
+            静态属性，获取PluginManager对象
+            </summary>
+        </member>
+        <member name="T:Platform.Core.EngineState">
+            <summary>
+            引擎的状态
+            </summary>
+        </member>
+        <member name="T:Platform.Core.Engine">
+            <summary>
+            运行时引擎，负责处理与WinForm的交互
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Engine.MainForm">
+            <summary>
+            engine寄宿的主窗体
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Engine.StartupSettings">
+            <summary>
+            引擎启动时的设置
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Engine.servicesmanager">
+            <summary>
+            服务维护对象
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Engine.pluginmanager">
+            <summary>
+            插件维护对象
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Engine.projectmanager">
+            <summary>
+            工程维护对象
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Engine.state">
+            <summary>
+            引擎的状态
+            </summary>
+        </member>
+        <member name="M:Platform.Core.Engine.#ctor(System.Windows.Forms.Form,Platform.Core.StartUpSettings)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="form">寄宿的窗体</param>
+            <param name="sus">启动设置</param>
+        </member>
+        <member name="M:Platform.Core.Engine.CoreBuildPlugins(System.String)">
+            <summary>
+            加载root路径下所有的插件（包括Main插件）
+            </summary>
+            <param name="root"></param>
+        </member>
+        <member name="M:Platform.Core.Engine.BuildPlugin(System.String,System.Boolean)">
+            <summary>
+            构建插件，并加载UI(仅在Core启动阶段加载用)
+            </summary>
+            <param name="pluginpath">插件的Addin文件路径</param>
+            <param name="insert">是否将Plugin插入插件树中</param>
+        </member>
+        <member name="M:Platform.Core.Engine.ExcutePlatform(System.Object,Platform.Core.RuntimeEventArgs)">
+            <summary>
+            运行平台，在Engine开始工作时需首先加载Core
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+        </member>
+        <member name="M:Platform.Core.Engine.OpenProject(System.Object,Platform.Core.RuntimeEventArgs)">
+            <summary>
+            与运行时通讯，该方法完成打开某工程文件
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+        </member>
+        <member name="P:Platform.Core.Engine.State">
+            <summary>
+            状态属性
+            </summary>
+        </member>
+        <member name="M:Platform.Core.Services.FileService.CollectPluginsAddin(System.String,System.Boolean)">
+            <summary>
+            收集所有的插件Addin配置文件
+            </summary>
+            <param name="root">插件根目录</param>
+            <param name="ignoreMain">是否忽略Main插件</param>
+            <returns>所有插件Addin配置文件List</returns>
+        </member>
+        <member name="T:Platform.Core.Exceptions.ExceptionLevel">
+            <summary>
+            异常级别
+            </summary>
+        </member>
+        <member name="T:Platform.Core.Exceptions.CoreException">
+            <summary>
+            应用程序框架异常Exception基类
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Exceptions.CoreException.m_ModuleName">
+            <summary>
+            引发异常的模块名称
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Exceptions.CoreException.m_LogException">
+            <summary>
+            是否引用日志记录，默认值为true
+            </summary>
+        </member>
+        <member name="F:Platform.Core.Exceptions.CoreException.m_Level">
+            <summary>
+            异常的级别,默认为低
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Exceptions.CoreException.ModuleName">
+            <summary>
+            引发异常模块属性
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Exceptions.CoreException.Level">
+            <summary>
+            异常级别
+            </summary>
+        </member>
+        <member name="P:Platform.Core.Exceptions.CoreException.LogException">
+            <summary>
+            记录日志属性
+            </summary>
+        </member>
+        <member name="T:Platform.Core.Services.ServiceLevel">
+            <summary>
+            服务优先级别，AutoStart服务均为High，UserDefined服务默认为Common
+            </summary>
+        </member>
+        <member name="T:Platform.Core.Services.ServiceState">
+            <summary>
+            服务的状态
+            </summary>
+        </member>
+        <member name="T:Platform.Core.Properties">
+            <summary>
+            配置文件接口
+            </summary>
+        </member>
+        <member name="M:Platform.Core.Services.PluginsService.#ctor">
+            <summary>
+            构造函数，赋值委托
+            </summary>
+        </member>
+        <member name="M:Platform.Core.Services.PluginsService.OnInitService(System.Object,System.EventArgs)">
+            <summary>
+            初始化服务
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+        </member>
+        <member name="M:Platform.Core.Services.PluginsService.OnBuildPlugin(System.Object,Platform.Core.Services.PluginActionEventArgs)">
+            <summary>
+            平台初始化时构建插件
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Platform.Core.Services.PluginsService.OnInsertPlugin(System.Object,Platform.Core.Services.PluginActionEventArgs)">
+            <summary>
+            在插件构建完之后往PluginManger中插入相关信息
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+        </member>
+    </members>
+</doc>

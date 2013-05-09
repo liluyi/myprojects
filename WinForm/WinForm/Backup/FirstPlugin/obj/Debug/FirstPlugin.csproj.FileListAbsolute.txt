@@ -1,0 +1,31 @@
+E:\Test\WinForm\FirstPlugin\obj\Debug\ResolveAssemblyReference.cache
+E:\Test\WinForm\WinForm\bin\Debug\plugin\FirstPlugin\FirstPlugin.dll
+E:\Test\WinForm\WinForm\bin\Debug\plugin\FirstPlugin\FirstPlugin.pdb
+E:\Test\WinForm\FirstPlugin\obj\Debug\FirstPlugin.dll
+E:\Test\WinForm\FirstPlugin\obj\Debug\FirstPlugin.pdb
+F:\Platform\WinForm\WinForm\bin\Debug\plugin\FirstPlugin\FirstPlugin.dll
+F:\Platform\WinForm\WinForm\bin\Debug\plugin\FirstPlugin\FirstPlugin.pdb
+F:\Platform\WinForm\FirstPlugin\obj\Debug\ResolveAssemblyReference.cache
+F:\Platform\WinForm\FirstPlugin\obj\Debug\FirstPlugin.dll
+F:\Platform\WinForm\FirstPlugin\obj\Debug\FirstPlugin.pdb
+F:\Platform\WinForm\FirstPlugin\obj\Debug\FirstPlugin.FirstTabView.resources
+F:\Platform\WinForm\FirstPlugin\obj\Debug\FirstPlugin.csproj.GenerateResource.Cache
+F:\CASREE\WinForm\WinForm\bin\Debug\plugin\FirstPlugin\FirstPlugin.dll
+F:\CASREE\WinForm\WinForm\bin\Debug\plugin\FirstPlugin\FirstPlugin.pdb
+F:\CASREE\WinForm\FirstPlugin\obj\Debug\ResolveAssemblyReference.cache
+F:\CASREE\WinForm\FirstPlugin\obj\Debug\FirstPlugin.FirstTabView.resources
+F:\CASREE\WinForm\FirstPlugin\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\CASREE\WinForm\FirstPlugin\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\CASREE\WinForm\FirstPlugin\obj\Debug\FirstPlugin.dll
+F:\CASREE\WinForm\FirstPlugin\obj\Debug\FirstPlugin.pdb
+F:\CASREE\WinForm\FirstPlugin\obj\Debug\FirstPlugin.FirstInfoView.resources
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\FirstPlugin\FirstPlugin.dll
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\FirstPlugin\FirstPlugin.pdb
+F:\CASREE Source Code\WinForm\FirstPlugin\obj\Debug\ResolveAssemblyReference.cache
+F:\CASREE Source Code\WinForm\FirstPlugin\obj\Debug\FirstPlugin.FirstInfoView.resources
+F:\CASREE Source Code\WinForm\FirstPlugin\obj\Debug\FirstPlugin.FirstTabView.resources
+F:\CASREE Source Code\WinForm\FirstPlugin\obj\Debug\FirstPlugin.FirstTreeView.resources
+F:\CASREE Source Code\WinForm\FirstPlugin\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\CASREE Source Code\WinForm\FirstPlugin\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\CASREE Source Code\WinForm\FirstPlugin\obj\Debug\FirstPlugin.dll
+F:\CASREE Source Code\WinForm\FirstPlugin\obj\Debug\FirstPlugin.pdb

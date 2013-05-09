@@ -1,0 +1,99 @@
+E:\Test\WinForm\WinForm\bin\Debug\WinForm.exe
+E:\Test\WinForm\WinForm\bin\Debug\WinForm.pdb
+E:\Test\WinForm\WinForm\obj\Debug\ResolveAssemblyReference.cache
+E:\Test\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+E:\Test\WinForm\WinForm\obj\Debug\WinForm.WinForm.resources
+E:\Test\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+E:\Test\WinForm\WinForm\obj\Debug\WinForm.exe
+E:\Test\WinForm\WinForm\obj\Debug\WinForm.pdb
+E:\Test\WinForm\WinForm\bin\Debug\Platform.Core.dll
+E:\Test\WinForm\WinForm\bin\Debug\Platform.Core.pdb
+E:\Test\WinForm\WinForm\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Test\WinForm\WinForm\bin\Debug\Platform.Core.xml
+F:\Platform\WinForm\WinForm\obj\Debug\WinForm.exe
+F:\Platform\WinForm\WinForm\obj\Debug\WinForm.pdb
+F:\Platform\WinForm\WinForm\bin\Debug\WinForm.exe
+F:\Platform\WinForm\WinForm\bin\Debug\WinForm.pdb
+F:\Platform\WinForm\WinForm\bin\Debug\Platform.Core.dll
+F:\Platform\WinForm\WinForm\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Platform\WinForm\WinForm\bin\Debug\Platform.Core.pdb
+F:\Platform\WinForm\WinForm\bin\Debug\Platform.Core.xml
+F:\Platform\WinForm\WinForm\obj\Debug\ResolveAssemblyReference.cache
+F:\Platform\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+F:\Platform\WinForm\WinForm\obj\Debug\WinForm.WinForm.resources
+F:\Platform\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+F:\Platform\WinForm\WinForm\bin\Debug\log4net.dll
+F:\Platform\WinForm\WinForm\obj\Debug\WinForm.ExceptionBox.resources
+I:\WinForm\WinForm\obj\Debug\WinForm.exe
+I:\WinForm\WinForm\obj\Debug\WinForm.pdb
+G:\CASREE\WinForm\WinForm\obj\Debug\WinForm.exe
+G:\CASREE\WinForm\WinForm\obj\Debug\WinForm.pdb
+G:\CASREE\WinForm\WinForm\bin\Debug\WinForm.exe
+G:\CASREE\WinForm\WinForm\bin\Debug\WinForm.pdb
+G:\CASREE\WinForm\WinForm\bin\Debug\Platform.Core.dll
+G:\CASREE\WinForm\WinForm\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\CASREE\WinForm\WinForm\bin\Debug\log4net.dll
+G:\CASREE\WinForm\WinForm\bin\Debug\Platform.Core.pdb
+G:\CASREE\WinForm\WinForm\bin\Debug\Platform.Core.xml
+G:\CASREE\WinForm\WinForm\obj\Debug\ResolveAssemblyReference.cache
+G:\CASREE\WinForm\WinForm\obj\Debug\WinForm.ExceptionBox.resources
+G:\CASREE\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+G:\CASREE\WinForm\WinForm\obj\Debug\WinForm.WinForm.resources
+G:\CASREE\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+F:\CASREE\WinForm\WinForm\obj\Debug\WinForm.exe
+F:\CASREE\WinForm\WinForm\obj\Debug\WinForm.pdb
+F:\CASREE\WinForm\WinForm\bin\Debug\WinForm.exe
+F:\CASREE\WinForm\WinForm\bin\Debug\WinForm.pdb
+F:\CASREE\WinForm\WinForm\bin\Debug\Platform.Core.dll
+F:\CASREE\WinForm\WinForm\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\CASREE\WinForm\WinForm\bin\Debug\log4net.dll
+F:\CASREE\WinForm\WinForm\bin\Debug\Platform.Core.pdb
+F:\CASREE\WinForm\WinForm\bin\Debug\Platform.Core.xml
+F:\CASREE\WinForm\WinForm\obj\Debug\ResolveAssemblyReference.cache
+F:\CASREE\WinForm\WinForm\obj\Debug\WinForm.ExceptionBox.resources
+F:\CASREE\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+F:\CASREE\WinForm\WinForm\obj\Debug\WinForm.WinForm.resources
+F:\CASREE\WinForm\WinForm\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\CASREE\WinForm\WinForm\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\WinForm.exe.config
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\WinForm.exe
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\WinForm.pdb
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\Platform.Core.dll
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\log4net.dll
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\Platform.Core.pdb
+F:\CASREE Source Code\WinForm\WinForm\obj\Debug\ResolveAssemblyReference.cache
+F:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.ExceptionBox.resources
+F:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+F:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.WinForm.resources
+F:\CASREE Source Code\WinForm\WinForm\obj\Debug\GenerateResource.read.1.tlog
+F:\CASREE Source Code\WinForm\WinForm\obj\Debug\GenerateResource.write.1.tlog
+F:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.exe
+F:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.pdb
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\WinForm.exe.config
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\WinForm.exe
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\WinForm.pdb
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.ExceptionBox.resources
+E:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+E:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.WinForm.resources
+E:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.exe
+E:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.pdb
+E:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+E:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+E:\CASREE Source Code\WinForm\WinForm\obj\Debug\WinForm.SplashForm.resources
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\log4net.dll
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\Platform.Core.pdb
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\WinForm.exe.config
+D:\Projects\WinForm\WinForm\WinForm\obj\Debug\WinForm.exe
+D:\Projects\WinForm\WinForm\WinForm\obj\Debug\WinForm.pdb
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\WinForm.exe
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\WinForm.pdb
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\log4net.dll
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\Platform.Core.pdb
+D:\Projects\WinForm\WinForm\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+D:\Projects\WinForm\WinForm\WinForm\obj\Debug\WinForm.ExceptionBox.resources
+D:\Projects\WinForm\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\Projects\WinForm\WinForm\WinForm\obj\Debug\WinForm.SplashForm.resources
+D:\Projects\WinForm\WinForm\WinForm\obj\Debug\WinForm.WinForm.resources
+D:\Projects\WinForm\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache

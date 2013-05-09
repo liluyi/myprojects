@@ -1,0 +1,58 @@
+E:\Test\WinForm\Platform.Core\bin\Debug\Platform.Core.dll
+E:\Test\WinForm\Platform.Core\bin\Debug\Platform.Core.pdb
+E:\Test\WinForm\Platform.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Test\WinForm\Platform.Core\obj\Debug\Platform.Core.dll
+E:\Test\WinForm\Platform.Core\obj\Debug\Platform.Core.pdb
+E:\Test\WinForm\Platform.Core\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Test\WinForm\Platform.Core\bin\Debug\Platform.Core.XML
+F:\Platform\WinForm\Platform.Core\obj\Debug\ResolveAssemblyReference.cache
+F:\Platform\WinForm\Platform.Core\obj\Debug\Platform.Core.dll
+F:\Platform\WinForm\Platform.Core\bin\Debug\Platform.Core.dll
+F:\Platform\WinForm\Platform.Core\bin\Debug\Platform.Core.pdb
+F:\Platform\WinForm\Platform.Core\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Platform\WinForm\Platform.Core\obj\Debug\Platform.Core.pdb
+F:\Platform\WinForm\Platform.Core\bin\Debug\log4net.dll
+G:\CASREE\WinForm\Platform.Core\bin\Debug\Platform.Core.dll
+G:\CASREE\WinForm\Platform.Core\bin\Debug\Platform.Core.pdb
+G:\CASREE\WinForm\Platform.Core\bin\Debug\log4net.dll
+G:\CASREE\WinForm\Platform.Core\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\CASREE\WinForm\Platform.Core\obj\Debug\ResolveAssemblyReference.cache
+G:\CASREE\WinForm\Platform.Core\obj\Debug\Platform.Core.dll
+G:\CASREE\WinForm\Platform.Core\obj\Debug\Platform.Core.pdb
+F:\CASREE\WinForm\Platform.Core\bin\Debug\Platform.Core.dll
+F:\CASREE\WinForm\Platform.Core\bin\Debug\Platform.Core.pdb
+F:\CASREE\WinForm\Platform.Core\bin\Debug\log4net.dll
+F:\CASREE\WinForm\Platform.Core\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\CASREE\WinForm\Platform.Core\obj\Debug\ResolveAssemblyReference.cache
+F:\CASREE\WinForm\Platform.Core\obj\Debug\Platform.Core.dll
+F:\CASREE\WinForm\Platform.Core\obj\Debug\Platform.Core.pdb
+F:\CASREE\WinForm\Platform.Core\obj\Debug\Platform.Core.UI.BaseForm.resources
+F:\CASREE\WinForm\Platform.Core\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\CASREE\WinForm\Platform.Core\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\CASREE Source Code\WinForm\Platform.Core\bin\Debug\log4net.dll
+F:\CASREE Source Code\WinForm\Platform.Core\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\CASREE Source Code\WinForm\Platform.Core\bin\Debug\Platform.Core.dll
+F:\CASREE Source Code\WinForm\Platform.Core\bin\Debug\Platform.Core.pdb
+F:\CASREE Source Code\WinForm\Platform.Core\obj\Debug\ResolveAssemblyReference.cache
+F:\CASREE Source Code\WinForm\Platform.Core\obj\Debug\Platform.Core.UI.BaseForm.resources
+F:\CASREE Source Code\WinForm\Platform.Core\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\CASREE Source Code\WinForm\Platform.Core\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\CASREE Source Code\WinForm\Platform.Core\obj\Debug\Platform.Core.dll
+F:\CASREE Source Code\WinForm\Platform.Core\obj\Debug\Platform.Core.pdb
+E:\CASREE Source Code\WinForm\Platform.Core\obj\Debug\Platform.Core.UI.BaseForm.resources
+E:\CASREE Source Code\WinForm\Platform.Core\obj\Debug\Platform.Core.csproj.GenerateResource.Cache
+E:\CASREE Source Code\WinForm\Platform.Core\obj\Debug\Platform.Core.dll
+E:\CASREE Source Code\WinForm\Platform.Core\obj\Debug\Platform.Core.pdb
+E:\CASREE Source Code\WinForm\Platform.Core\bin\Debug\Platform.Core.dll
+E:\CASREE Source Code\WinForm\Platform.Core\bin\Debug\Platform.Core.pdb
+E:\CASREE Source Code\WinForm\Platform.Core\bin\Debug\log4net.dll
+E:\CASREE Source Code\WinForm\Platform.Core\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\Platform.Core.dll
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\Platform.Core.pdb
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\Platform.Core.dll
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\Platform.Core.pdb
+D:\Projects\WinForm\WinForm\Platform.Core\obj\Debug\Platform.Core.csprojResolveAssemblyReference.cache
+D:\Projects\WinForm\WinForm\Platform.Core\obj\Debug\Platform.Core.UI.BaseForm.resources
+D:\Projects\WinForm\WinForm\Platform.Core\obj\Debug\Platform.Core.csproj.GenerateResource.Cache
+D:\Projects\WinForm\WinForm\Platform.Core\obj\Debug\Platform.Core.dll
+D:\Projects\WinForm\WinForm\Platform.Core\obj\Debug\Platform.Core.pdb

@@ -1,0 +1,22 @@
+<Property>
+  <PluginInfo
+                     author="liluyi"
+                     name="Liluyi"
+                     type="Others"
+                     description="This is Liluyi's Plugin"
+                     token="Liluyi"
+                     class="Liluyi.LiluyiPlugin"
+                     icon="xx.ico"
+/>
+  <Assembly
+                     assembly="Liluyi.dll"
+/>
+  <MutableResource
+                     class="Liluyi.LiluyiMutableResource"
+/>
+  <Project
+                     name="LiluyiProject"
+                     class="Liluyi.LiluyiProject"
+                     suffix="Liluyi"
+/>
+</Property>

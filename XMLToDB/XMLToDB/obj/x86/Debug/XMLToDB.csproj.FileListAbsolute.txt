@@ -1,0 +1,5 @@
+E:\Project\Visual Studio 2010\XMLToDB\XMLToDB\bin\Debug\XMLToDB.exe
+E:\Project\Visual Studio 2010\XMLToDB\XMLToDB\bin\Debug\XMLToDB.pdb
+E:\Project\Visual Studio 2010\XMLToDB\XMLToDB\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\Visual Studio 2010\XMLToDB\XMLToDB\obj\x86\Debug\XMLToDB.exe
+E:\Project\Visual Studio 2010\XMLToDB\XMLToDB\obj\x86\Debug\XMLToDB.pdb

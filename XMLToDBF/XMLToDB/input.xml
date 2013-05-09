@@ -1,0 +1,97 @@
+﻿<?xml version="1.0"?>
+<SFTAProjectData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PluginUUID>fta</PluginUUID>
+  <Solution>DefaultSolution</Solution>
+  <Name>projectfta</Name>
+  <Path />
+  <SFTATreeNodes>
+    <SFTATreeInfoTable>
+      <nodeid>6666666fadfdadafdadfdafadaa582</nodeid>
+      <nodedataid>e651-b5c5-4b99-bf0e-6586188a7582</nodedataid>
+      <nodename>aa</nodename>
+      <description />
+      <nodetype>EventIntermediate</nodetype>
+      <fmeainfo />
+    </SFTATreeInfoTable>
+    <SFTATreeInfoTable>
+      <nodeid>9f85fb1c-a753-4684-bf76-7bd6712e0dd4</nodeid>
+      <nodedataid>9f85fb1c-a753-4684-bf76-7bd6712e0dd4</nodedataid>
+      <nodename>aa</nodename>
+      <description>aa</description>
+      <nodetype>GateAnd</nodetype>
+      <parentid>e6edc751-b5c5-4b99-bf0e-6586188a7582</parentid>
+      <fmeainfo />
+    </SFTATreeInfoTable>
+    <SFTATreeInfoTable>
+      <nodeid>4137d321-e917-434f-b953-0c0175909aa4</nodeid>
+      <nodedataid>4137d321-e917-434f-b953-0c0175909aa4</nodedataid>
+      <nodename>aa</nodename>
+      <description>aaaaa</description>
+      <nodetype>EventIntermediate</nodetype>
+      <parentid>9f85fb1c-a753-4684-bf76-7bd6712e0dd4</parentid>
+      <fmeainfo />
+    </SFTATreeInfoTable>
+    <SFTATreeInfoTable>
+      <nodeid>4954acd4-adb9-4bd4-8788-558500cd28bf</nodeid>
+      <nodedataid>4954acd4-adb9-4bd4-8788-558500cd28bf</nodedataid>
+      <nodename>aaaa</nodename>
+      <description>aaaaaa</description>
+      <nodetype>GateOr</nodetype>
+      <parentid>4137d321-e917-434f-b953-0c0175909aa4</parentid>
+      <fmeainfo />
+    </SFTATreeInfoTable>
+    <SFTATreeInfoTable>
+      <nodeid>24e3c978-60a8-4161-9e82-b2ed32bd2a8e</nodeid>
+      <nodedataid>24e3c978-60a8-4161-9e82-b2ed32bd2a8e</nodedataid>
+      <nodename>aaaaaa</nodename>
+      <description>aaaaaadafdafadda</description>
+      <nodetype>EventBasic</nodetype>
+      <parentid>9f85fb1c-a753-4684-bf76-7bd6712e0dd4</parentid>
+      <fmeainfo />
+    </SFTATreeInfoTable>
+    <SFTATreeInfoTable>
+      <nodeid>9ec0bbe3-ab2f-4f4e-a16d-14546f5ca7b1</nodeid>
+      <nodedataid>9ec0bbe3-ab2f-4f4e-a16d-14546f5ca7b1</nodedataid>
+      <nodename>dadfafafa?</nodename>
+      <description>dafadfadfaad</description>
+      <nodetype>EventBasic</nodetype>
+      <parentid>4954acd4-adb9-4bd4-8788-558500cd28bf</parentid>
+      <fmeainfo />
+    </SFTATreeInfoTable>
+    <SFTATreeInfoTable>
+      <nodeid>7ee71220-09b5-4c92-90cd-fe037ffc8355</nodeid>
+      <nodedataid>7ee71220-09b5-4c92-90cd-fe037ffc8355</nodedataid>
+      <nodename>dafadadfadada</nodename>
+      <description>adfadadafadfafdadfa</description>
+      <nodetype>EventBasic</nodetype>
+      <parentid>4954acd4-adb9-4bd4-8788-558500cd28bf</parentid>
+      <fmeainfo />
+    </SFTATreeInfoTable>
+  </SFTATreeNodes>
+  <SFTARelations>
+    <SFTANodeRelationTable>
+      <nodeid>e6edc751-b5c5-4b99-bf0e-6586188a7582</nodeid>
+      <childid>9f85fb1c-a753-4684-bf76-7bd6712e0dd4</childid>
+    </SFTANodeRelationTable>
+    <SFTANodeRelationTable>
+      <nodeid>9f85fb1c-a753-4684-bf76-7bd6712e0dd4</nodeid>
+      <childid>4137d321-e917-434f-b953-0c0175909aa4</childid>
+    </SFTANodeRelationTable>
+    <SFTANodeRelationTable>
+      <nodeid>9f85fb1c-a753-4684-bf76-7bd6712e0dd4</nodeid>
+      <childid>24e3c978-60a8-4161-9e82-b2ed32bd2a8e</childid>
+    </SFTANodeRelationTable>
+    <SFTANodeRelationTable>
+      <nodeid>4137d321-e917-434f-b953-0c0175909aa4</nodeid>
+      <childid>4954acd4-adb9-4bd4-8788-558500cd28bf</childid>
+    </SFTANodeRelationTable>
+    <SFTANodeRelationTable>
+      <nodeid>4954acd4-adb9-4bd4-8788-558500cd28bf</nodeid>
+      <childid>9ec0bbe3-ab2f-4f4e-a16d-14546f5ca7b1</childid>
+    </SFTANodeRelationTable>
+    <SFTANodeRelationTable>
+      <nodeid>4954acd4-adb9-4bd4-8788-558500cd28bf</nodeid>
+      <childid>7ee71220-09b5-4c92-90cd-fe037ffc8355</childid>
+    </SFTANodeRelationTable>
+  </SFTARelations>
+</SFTAProjectData>

@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{951B4CCD-1C44-43B9-AE29-E1BD01CCF599}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SFTAPlugin</RootNamespace>
+    <AssemblyName>SFTAPlugin</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\WinForm\bin\Debug\plugin\SFTAPlugin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v11.1, Version=11.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v11.1.Core, Version=11.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v11.1, Version=11.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v11.1, Version=11.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v11.1.Design, Version=11.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v11.1, Version=11.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v11.1.Design, Version=11.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v11.1, Version=11.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Lassalle.Flow">
+      <HintPath>..\..\..\CASREE\FTA\addflow画图FTA - 副本 (2)\addflow画图FTA - 副本 (2)\SratPlugin\SratPlugin\Lassalle.Flow.DLL</HintPath>
+    </Reference>
+    <Reference Include="Lassalle.Flow.Layout.Hierarchic">
+      <HintPath>D:\Program Files\Lassalle Technologies\AddFlow for WinForms v2.3.3\Bin\Lassalle.Flow.Layout.Hierarchic.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Vbe.Interop, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Platform.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\WinForm\bin\Debug\Platform.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking, Version=2.5.0.27496, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\WinForm\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ElectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ElectForm.Designer.cs">
+      <DependentUpon>ElectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExistedEventsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExistedEventsForm.Designer.cs">
+      <DependentUpon>ExistedEventsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FTAForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FTAForm.Designer.cs">
+      <DependentUpon>FTAForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FTAEventNodeData.cs" />
+    <Compile Include="FTAGateNodeData.cs" />
+    <Compile Include="FTANodeData.cs" />
+    <Compile Include="FTANodeRelation.cs" />
+    <Compile Include="FTAShapes.cs" />
+    <Compile Include="FTATreeInfo.cs" />
+    <Compile Include="FTATreeNodeInfo.cs" />
+    <Compile Include="IPOForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IPOForm.Designer.cs">
+      <DependentUpon>IPOForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MinimumCutSetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MinimumCutSetForm.Designer.cs">
+      <DependentUpon>MinimumCutSetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PropertyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PropertyForm.Designer.cs">
+      <DependentUpon>PropertyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingForm.Designer.cs">
+      <DependentUpon>SettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SFTAInfoViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SFTAInfoViewForm.Designer.cs">
+      <DependentUpon>SFTAInfoViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SFTAMutableResource.cs" />
+    <Compile Include="SFTANodeRelationTable.cs" />
+    <Compile Include="SFTAPlugin.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SFTAProject.cs" />
+    <Compile Include="SFTAProjectData.cs" />
+    <Compile Include="SFTAServerViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SFTAServerViewForm.Designer.cs">
+      <DependentUpon>SFTAServerViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SFTATabViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SFTATabViewForm.Designer.cs">
+      <DependentUpon>SFTATabViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SFTATreeInfoTable.cs" />
+    <Compile Include="SFTATreeViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SFTATreeViewForm.Designer.cs">
+      <DependentUpon>SFTATreeViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolForm.Designer.cs">
+      <DependentUpon>ToolForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToWord\DoWord.cs" />
+    <Compile Include="ToWord\HONG.cs" />
+    <Compile Include="ToWord\ItemParagraph.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ElectForm.resx">
+      <DependentUpon>ElectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExistedEventsForm.resx">
+      <DependentUpon>ExistedEventsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FTAForm.resx">
+      <DependentUpon>FTAForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IPOForm.resx">
+      <DependentUpon>IPOForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MinimumCutSetForm.resx">
+      <DependentUpon>MinimumCutSetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PropertyForm.resx">
+      <DependentUpon>PropertyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingForm.resx">
+      <DependentUpon>SettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SFTAInfoViewForm.resx">
+      <DependentUpon>SFTAInfoViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SFTAServerViewForm.resx">
+      <DependentUpon>SFTAServerViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SFTATabViewForm.resx">
+      <DependentUpon>SFTATabViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SFTATreeViewForm.resx">
+      <DependentUpon>SFTATreeViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolForm.resx">
+      <DependentUpon>ToolForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Resources\Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 14625.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 7575.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 14727.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 13926.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 13912.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 13832.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 13856.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 13878.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 13899.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 7511.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 7707.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 14246.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 8829.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\逻辑门-表决门.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\逻辑门-或门.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\逻辑门-禁止门.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\逻辑门-顺序与门.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\逻辑门-顺序与门1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\逻辑门-顺序与门2 .jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\逻辑门-异或门.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\逻辑门-优先门.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\逻辑门-与门.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\事件-基本事件.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\事件-省略事件.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\事件-事件跳出.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\事件-事件跳入.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\事件-条件事件.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\事件-正常事件.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\事件-中间事件.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 9053.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 9056.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 14129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 14133.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 14284.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.pptbar.com-图标 14308.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

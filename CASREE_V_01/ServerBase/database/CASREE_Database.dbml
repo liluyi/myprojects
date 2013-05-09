@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="casree_database" Class="CASREE_DatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=XUGUOJUN-PC\SQLEXPRESS;Initial Catalog=casree_database;Integrated Security=True;Pooling=False" SettingsObjectName="ServerBase.Properties.Settings" SettingsPropertyName="casree_databaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.casree_user" Member="casree_users">
+    <Type Name="casree_user">
+      <Column Name="name" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="passwd" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="groupId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.casree_permission" Member="casree_permissions">
+    <Type Name="casree_permission">
+      <Column Name="name" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="solutionName" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="projectName" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Association Name="casree_permission_casree_permission" Member="casree_permission2" ThisKey="name" OtherKey="name" Type="casree_permission" Cardinality="One" />
+      <Association Name="casree_permission_casree_permission" Member="casree_permission1" ThisKey="name" OtherKey="name" Type="casree_permission" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.casree_solutionProgress" Member="casree_solutionProgresses">
+    <Type Name="casree_solutionProgress">
+      <Column Name="solutionName" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="progress" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.casree_solution" Member="casree_solutions">
+    <Type Name="casree_solution">
+      <Column Name="solutionName" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="predict" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="assign" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="analysis" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="design" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="test" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="assess" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.casree_projectVersion" Member="casree_projectVersions">
+    <Type Name="casree_projectVersion">
+      <Column Name="solution_projectName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="version" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

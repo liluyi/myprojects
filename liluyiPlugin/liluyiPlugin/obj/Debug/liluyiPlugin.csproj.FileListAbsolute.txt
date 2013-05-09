@@ -1,0 +1,22 @@
+F:\CASREE Source Code\Test\plugin\liluyiPlugin\liluyiPlugin.pdb
+F:\CASREE Source Code\Test\plugin\liluyiPlugin\liluyiPlugin.dll
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\liluyiPlugin\liluyiPlugin.dll
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\liluyiPlugin\liluyiPlugin.pdb
+D:\Projects\liluyiPlugin\liluyiPlugin\bin\Debug\liluyiPlugin.dll
+D:\Projects\liluyiPlugin\liluyiPlugin\bin\Debug\liluyiPlugin.pdb
+D:\Projects\liluyiPlugin\liluyiPlugin\bin\Debug\log4net.dll
+D:\Projects\liluyiPlugin\liluyiPlugin\bin\Debug\Platform.Core.dll
+D:\Projects\liluyiPlugin\liluyiPlugin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Projects\liluyiPlugin\liluyiPlugin\bin\Debug\Platform.Core.pdb
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\liluyiPlugin.AddUserForm.resources
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\liluyiPlugin.liluyiInfoViewForm.resources
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\liluyiPlugin.liluyiServerViewForm.resources
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\liluyiPlugin.liluyiTabViewForm.resources
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\liluyiPlugin.liluyiTreeViewForm.resources
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\liluyiPlugin.Properties.Resources.resources
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\liluyiPlugin.dll
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\liluyiPlugin.pdb
+D:\Projects\liluyiPlugin\liluyiPlugin\obj\Debug\liluyiPlugin.csproj.GenerateResource.Cache

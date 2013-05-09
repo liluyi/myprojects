@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configure>
+  <nodedataid>
+    <database>casere_sfta_database</database>
+    <table>ftatreeinfo</table>
+    <attribute>nodeid</attribute>
+  </nodedataid>
+  <description>
+    <database>casere_sfta_database</database>
+    <table>ftatreeinfo</table>
+    <attribute>description</attribute>
+  </description>
+</configure>

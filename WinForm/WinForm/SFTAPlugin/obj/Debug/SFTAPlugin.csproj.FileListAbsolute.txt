@@ -1,0 +1,64 @@
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\SFTAPlugin\SFTAPlugin.dll
+F:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\SFTAPlugin\SFTAPlugin.pdb
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\ResolveAssemblyReference.cache
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.FTAForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.MinimumCutSetForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.Properties.Resources.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTAInfoViewForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTAServerViewForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTATabViewForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTATreeViewForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\GenerateResource.read.1.tlog
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\GenerateResource.write.1.tlog
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.dll.licenses
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.dll
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.pdb
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.PropertyForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.ExistedEventsForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SettingForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.ElectForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.ToolForm.resources
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\GenerateResource.read.557.tlog
+F:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\GenerateResource.write.557.tlog
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\SFTAPlugin\SFTAPlugin.dll
+E:\CASREE Source Code\WinForm\WinForm\bin\Debug\plugin\SFTAPlugin\SFTAPlugin.pdb
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.ElectForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.ExistedEventsForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.FTAForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.MinimumCutSetForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.Properties.Resources.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.PropertyForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SettingForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTAInfoViewForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTAServerViewForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTATabViewForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTATreeViewForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.ToolForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.dll.licenses
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.dll
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.pdb
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.csproj.GenerateResource.Cache
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.csproj.ResolveComReference.cache
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.IPOForm.resources
+E:\CASREE Source Code\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.csprojResolveAssemblyReference.cache
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\plugin\SFTAPlugin\SFTAPlugin.dll
+D:\Projects\WinForm\WinForm\WinForm\bin\Debug\plugin\SFTAPlugin\SFTAPlugin.pdb
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.csprojResolveAssemblyReference.cache
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.csproj.ResolveComReference.cache
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.ElectForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.ExistedEventsForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.FTAForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.IPOForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.MinimumCutSetForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.Properties.Resources.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.PropertyForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SettingForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTAInfoViewForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTAServerViewForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTATabViewForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.SFTATreeViewForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.ToolForm.resources
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.csproj.GenerateResource.Cache
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.dll.licenses
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.dll
+D:\Projects\WinForm\WinForm\SFTAPlugin\obj\Debug\SFTAPlugin.pdb

@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical" MembersFormat="FullSignature">
+  <Class Name="SFTAPlugin.ElectForm" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACBAAAACAAABAAAACAAAACAAAAEBAAEAABAAAAAAA=</HashCode>
+      <FileName>ElectForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.ExistedEventsForm" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAIIAjADCACgQASBAAASLAKAAAiAgAwACSABCAQ=</HashCode>
+      <FileName>ExistedEventsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.FTAEventNodeData">
+    <Position X="7.75" Y="1.75" Width="7.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAAQAAAAAAAAAAIAQAAEAAAAAAAA=</HashCode>
+      <FileName>FTAEventNodeData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.FTAForm" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SX8ABi8Y+ykITaEA3gnRDAIzp68AXEDkYkUDrAelEgM=</HashCode>
+      <FileName>FTAForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.FTAGateNodeData">
+    <Position X="0.5" Y="1.75" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAQAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>FTAGateNodeData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.FTANodeData" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAQAAgAAAAQAAIAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>FTANodeData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.FTANodeRelation" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAGAIACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FTANodeRelation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.FTAShapes" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAIAAAQCAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FTAShapes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.FTATreeInfo" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAQAAAAAAAABAAACBggAQDAgBRAABIYEABBIiIA=</HashCode>
+      <FileName>FTATreeInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.FTATreeNodeInfo" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAIAAAQAAAAAAEAAIAgAAAAEAAAAAA=</HashCode>
+      <FileName>FTATreeNodeInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.IPOForm" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPOForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.MinimumCutSetForm" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABCAAACAAAACACAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>MinimumCutSetForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.PropertyForm" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQAAgAAiAAAACgAAAAAAoAAAAAAAAAAA=</HashCode>
+      <FileName>PropertyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.SettingForm" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAGAAABgAAACQAABCAAAIAACAAUAAAAABAAA=</HashCode>
+      <FileName>SettingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.SFTAInfoViewForm" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEAiQAAAAMAACAEAACAAQ8AEAAAAgEAYIABAA=</HashCode>
+      <FileName>SFTAInfoViewForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.SFTAMutableResource" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAAAAAgIwAAjCAgAAAQBACAAggAEAACAIAwA=</HashCode>
+      <FileName>SFTAMutableResource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.SFTAPlugin" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAQBAAAAgABAAAABCAAgAEAAIABAQA=</HashCode>
+      <FileName>SFTAPlugin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SFTAPlugin.SFTAProject" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAAACAAAAAQAAA=</HashCode>
+      <FileName>SFTAProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.SFTAProjectData" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>SFTAProjectData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.SFTAServerViewForm" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SFTAServerViewForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.SFTATabViewForm" Collapsed="true">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIhAAACAAABAAAACAQAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>SFTATabViewForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.SFTATreeViewForm" Collapsed="true">
+    <Position X="23.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MwAAQAQMAKAAAIEAQaCBIAACAIIAAAAAIAAAAAgQAAA=</HashCode>
+      <FileName>SFTATreeViewForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.ToolForm" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEhAABEAACAEABAACECQEAAKAAHAAAAACygBKIAAACA=</HashCode>
+      <FileName>ToolForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFTAPlugin.Properties.Resources" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgIAAAAAEAQABCACgFEABAkTIgAAQgAIAGAQAAAIg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SFTAPlugin.NodeType" Collapsed="true">
+    <Position X="20" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAgAAAgAQBAQAAAABCABAAAAAIAAABAAAEAAAAAAAAQ=</HashCode>
+      <FileName>FTAEventNodeData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SFTAPlugin.EventType" Collapsed="true">
+    <Position X="16.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAgAAAgAAAAAAQAAACABAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>FTAEventNodeData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SFTAPlugin.GateType" Collapsed="true">
+    <Position X="18.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQBAQAQAABAAAAAAAAIAAABAAAEAAAAAAAAA=</HashCode>
+      <FileName>FTAGateNodeData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="SFTAPlugin.PropertyChangeHandler" Collapsed="true">
+    <Position X="20" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PropertyForm.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="SFTAPlugin.SelectedSetChangeHandler" Collapsed="true">
+    <Position X="21.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SFTAInfoViewForm.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="SFTAPlugin.NaviChangeHandler" Collapsed="true">
+    <Position X="18.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SFTAInfoViewForm.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="SFTAPlugin.CreateTreeHandler" Collapsed="true">
+    <Position X="16.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SFTAMutableResource.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

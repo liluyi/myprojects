@@ -1,0 +1,22 @@
+H:\Documents\Visual Studio 2008\Projects\Second\Second\obj\Debug\ResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2008\Projects\Second\Second\obj\Debug\Second.Resource.resources
+H:\Documents\Visual Studio 2008\Projects\Second\Second\obj\Debug\Second.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2008\Projects\PlugIn_new\plugin\Second\Second.dll
+H:\Documents\Visual Studio 2008\Projects\PlugIn_new\plugin\Second\Second.pdb
+H:\Documents\Visual Studio 2008\Projects\Second\Second\obj\Debug\Second.dll
+H:\Documents\Visual Studio 2008\Projects\Second\Second\obj\Debug\Second.pdb
+F:\Platform\WinForm\WinForm\bin\Debug\plugin\second\Second.dll
+F:\Platform\WinForm\WinForm\bin\Debug\plugin\second\Second.pdb
+F:\Platform\WinForm\Second\obj\Debug\ResolveAssemblyReference.cache
+F:\Platform\WinForm\Second\obj\Debug\Second.Resource.resources
+F:\Platform\WinForm\Second\obj\Debug\Second.csproj.GenerateResource.Cache
+F:\Platform\WinForm\Second\obj\Debug\Second.dll
+F:\Platform\WinForm\Second\obj\Debug\Second.pdb
+F:\CASREE\WinForm\WinForm\bin\Debug\plugin\second\Second.dll
+F:\CASREE\WinForm\WinForm\bin\Debug\plugin\second\Second.pdb
+F:\CASREE\WinForm\Second\obj\Debug\ResolveAssemblyReference.cache
+F:\CASREE\WinForm\Second\obj\Debug\Second.Resource.resources
+F:\CASREE\WinForm\Second\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\CASREE\WinForm\Second\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\CASREE\WinForm\Second\obj\Debug\Second.dll
+F:\CASREE\WinForm\Second\obj\Debug\Second.pdb

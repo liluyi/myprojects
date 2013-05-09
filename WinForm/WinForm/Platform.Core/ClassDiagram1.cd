@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Platform.Core.StartUpSettings" Collapsed="true">
+    <Position X="31.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAQAAAAAAAAIAAAACAgAAAAAAAgAAA=</HashCode>
+      <FileName>CoreStartUp\CoreStartUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.CoreStartUp" Collapsed="true">
+    <Position X="30" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgAAAACAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoreStartUp\CoreStartUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Engine" Collapsed="true">
+    <Position X="33.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAACUAAAAABAEAAAAgAAAAAEAAEABAACAAA=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.MutableResource" Collapsed="true">
+    <Position X="31.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAABBAIAEAAAAAEAAAAAAAAggAAACEQCAgA=</HashCode>
+      <FileName>Plugin\Plugin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.PluginInfo" Collapsed="true">
+    <Position X="33.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAgAAAAAQAAAAAAAAAASAAAAABQAA=</HashCode>
+      <FileName>Plugin\PluginInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.PluginsManager">
+    <Position X="37.75" Y="1.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQABAAEgAAggCAAAAMAAgAAAACABGAEACoBA=</HashCode>
+      <FileName>Plugin\PluginManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.PluginTree" Collapsed="true">
+    <Position X="28.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAEAABAAAAAAAAAAAAAAAAAgAAAAAAAAAAUAA=</HashCode>
+      <FileName>Plugin\PluginTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.PluginTreeNode" Collapsed="true">
+    <Position X="30" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAAAAACAAEAAAABAAAAAAAAACAAAAAgAA=</HashCode>
+      <FileName>Plugin\PluginTreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.ProjectManager">
+    <Position X="37.75" Y="7.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgADAAAmAAAAAAAAAAAAgAAAAAIAEA=</HashCode>
+      <FileName>Project\ProjectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Properties" Collapsed="true">
+    <Position X="35.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABABECAAQBAQAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Property\Properties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.PropertyChangedEventArgs" Collapsed="true">
+    <Position X="28.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAEAAEAAAAAAQAAAAEEAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Property\PropertyEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.PropertyLoadEventArgs" Collapsed="true">
+    <Position X="30" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Property\PropertyEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.PropertySaveEventArgs" Collapsed="true">
+    <Position X="31.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Property\PropertyEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.PropertyAnalyse" Collapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PropertyAnalyse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.RuntimeEventArgs" Collapsed="true">
+    <Position X="26.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Runtime" Collapsed="true">
+    <Position X="35.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAABAAAAAAIAAAAAAAAAAAAAQIAAA=</HashCode>
+      <FileName>Runtime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.ServicesManager" Collapsed="true">
+    <Position X="30" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIAgAAAIAAAgAIAAgRAAAAFQAAAICAACAKBAIgQAI=</HashCode>
+      <FileName>Services\ServicesManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.ServicesFactory" Collapsed="true">
+    <Position X="28.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ServicesManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.CoreException" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAQAAACAAADAAAAIAgAAAA=</HashCode>
+      <FileName>Exception\CoreException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.PluginException" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\PluginException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.PluginNotExsitException" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\PluginException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.PluginInfoNotExsitException" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\PluginException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.AddinFileNotInvaildException" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\PluginException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.AssemblyRefusedException" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\PluginException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.PluginBuildErrorException" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\PluginException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.RuntimeConfigInvaildException" Collapsed="true">
+    <Position X="21.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\RuntimeException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.ServiceNotExsitException" Collapsed="true">
+    <Position X="24" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\ServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.ServiceNotInvaildException" Collapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\ServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.FileServiceException" Collapsed="true">
+    <Position X="15" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\ServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.PropertyException" Collapsed="true">
+    <Position X="17.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\ServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Exceptions.UserDefinedServiceNotInvaildException" Collapsed="true">
+    <Position X="19.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\ServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Data.GUID">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAIAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Project\IProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Data.AbstractProject" Collapsed="true">
+    <Position X="8.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAQAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Project\IProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Services.FileService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAhAEAAIQAAAAQAAAAAAAAFAAACBAAAAAA=</HashCode>
+      <FileName>Services\FileService\FileService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Platform.Core.Services.CommonLoggingService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAhAEAAIAAAAASAAAAAAAAFAQACBAAAAAA=</HashCode>
+      <FileName>Services\LoggingService\SystemLoggingService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Platform.Core.Services.SystemLogging" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAKAAAAAAAbAEAAEAAAAAQDkAAAEAIAAAAEAEAAA=</HashCode>
+      <FileName>Services\LoggingService\SystemLoggingService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Platform.Core.Services.ICommonLogging" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAKAAAAAAAbAAAAAAAAAAQCkAAAEAIAAAAkAEAAA=</HashCode>
+      <FileName>Services\LoggingService\SystemLoggingService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Platform.Core.Services.DealRequstArgs" Collapsed="true">
+    <Position X="1.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Services.BuildProjectArgs" Collapsed="true">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Services.RemoveProjectArgs" Collapsed="true">
+    <Position X="2.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Services.InsertPluginArgs" Collapsed="true">
+    <Position X="28.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAQAAAAEAAAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Services.RemovePluginArgs" Collapsed="true">
+    <Position X="33.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Services.CreatePluginArgs" Collapsed="true">
+    <Position X="31.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBAAAEAAAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Services.PluginsService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAgAAAAQAAhQFIAIxAAAIRAIABQQBAFQAACBABAYAA=</HashCode>
+      <FileName>Services\PluginService\PluginsService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Platform.Core.Services.ProjectService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAhAECAAACCBAQAAgAAAAAFAAAABAAAAAA=</HashCode>
+      <FileName>Services\ProjectService\ProjectService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Platform.Core.Services.UIEventArgs">
+    <Position X="5.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\UIService\IUIService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Services.ProjectUIArgs" Collapsed="true">
+    <Position X="5.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Services\UIService\IUIService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.Services.UIService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAQBAAhEECAIQhRIAwAEAAAgBAFQAACDAAAAAA=</HashCode>
+      <FileName>Services\UIService\UIService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Platform.Core.Services.MainUIFrame" Collapsed="true">
+    <Position X="30" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAIQIAAAQAAgCACAAAJAAEAAAAAACAAEAAAQKAAAA=</HashCode>
+      <FileName>Services\UIService\UIService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform.Core.UI.BaseForm" Collapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\IUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Platform.Core.IPlugin" Collapsed="true">
+    <Position X="28.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAgAAAAAABCAAAAEAAIABAAA=</HashCode>
+      <FileName>Plugin\Plugin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Platform.Core.Services.IFileService">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\FileService\IFileService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Platform.Core.Services.IService" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAhAEAAAAAAAAQAAAAAAAABAAAABAAAAAA=</HashCode>
+      <FileName>Services\IService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Platform.Core.Services.ILogging" Collapsed="true">
+    <Position X="26.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAKAAAAAAAbAAAAAAAAAAQCkAAAEAIAAAAEAEAAA=</HashCode>
+      <FileName>Services\LoggingService\ILoggingService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Platform.Core.Services.ILoggingService">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\LoggingService\ILoggingService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Platform.Core.Services.IPluginService">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAQAAAAAAAAAAAIAAAQBAAQAAAAAAAAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Platform.Core.Services.IProjectService">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAACBAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ProjectService\IProjectService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Platform.Core.Services.IUIService">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAgAAAQAAACAAAAAA=</HashCode>
+      <FileName>Services\UIService\IUIService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Platform.Core.UI.UUID" Collapsed="true">
+    <Position X="30" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\IUI.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Platform.Core.EngineState" Collapsed="true">
+    <Position X="26.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAgIAAIAAAAAAA=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Platform.Core.PluginType" Collapsed="true">
+    <Position X="31.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAACAAAABA=</HashCode>
+      <FileName>Plugin\PluginInfo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Platform.Core.RequstType" Collapsed="true">
+    <Position X="33.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQCQAA=</HashCode>
+      <FileName>Runtime.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Platform.Core.Exceptions.ExceptionLevel" Collapsed="true">
+    <Position X="28.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAgAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception\CoreException.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Platform.Core.Services.ServiceLevel" Collapsed="true">
+    <Position X="35.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQEgAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IService.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Platform.Core.Services.ServiceState" Collapsed="true">
+    <Position X="26.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAAAAAAAAAAAAAAAAAAAAEAAIAAAAAAAAAA=</HashCode>
+      <FileName>Services\IService.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Platform.Core.Services.PluginRequstType" Collapsed="true">
+    <Position X="30" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAIAAgAEAAAAAAAACAAAABA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Platform.Core.PropertyChangedEventHandler" Collapsed="true">
+    <Position X="35.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Property\PropertyEvent.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Platform.Core.PropertyLoadEventHandler" Collapsed="true">
+    <Position X="26.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Property\PropertyEvent.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Platform.Core.PropertySaveEventHandler" Collapsed="true">
+    <Position X="28.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Property\PropertyEvent.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Platform.Core.RuntimeEventHandler" Collapsed="true">
+    <Position X="30" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Runtime.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Platform.Core.Services.InitServiceHandler" Collapsed="true">
+    <Position X="30" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IService.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Platform.Core.Services.CreatePluginEventHandler" Collapsed="true">
+    <Position X="26.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Platform.Core.Services.PluginInsertHandler" Collapsed="true">
+    <Position X="31.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Platform.Core.Services.PluginRemoveHandler" Collapsed="true">
+    <Position X="33.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Platform.Core.Services.DealRequstHandler" Collapsed="true">
+    <Position X="28.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Services\PluginService\IPluginsService.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Platform.Core.Services.UIHandler" Collapsed="true">
+    <Position X="31.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\UIService\IUIService.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

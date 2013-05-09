@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "power", "power\power.vcproj", "{FF1390C3-6014-43A3-BB40-B233D65B5106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1390C3-6014-43A3-BB40-B233D65B5106}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF1390C3-6014-43A3-BB40-B233D65B5106}.Debug|Win32.Build.0 = Debug|Win32
+		{FF1390C3-6014-43A3-BB40-B233D65B5106}.Release|Win32.ActiveCfg = Release|Win32
+		{FF1390C3-6014-43A3-BB40-B233D65B5106}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

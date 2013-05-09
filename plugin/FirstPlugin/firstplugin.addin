@@ -1,0 +1,22 @@
+<Property>
+<PluginInfo
+                   author="zm"
+                   name="First Plugin"
+                   type="Others"
+                   description="This is the FirstPlugin"
+                   token="First_zm"
+                   class="FirstPlugin.FirstPlugin"
+                   icon="xx.ico"
+/>
+<Assembly
+                   assembly="FirstPlugin.dll"
+/>
+<MutableResource
+                   class="FirstPlugin.FirstMutableResource"
+/>
+<Project
+                   name="FirstProject"
+                   class="FirstPlugin.FirstProject"
+                   suffix="first"
+/>
+</Property>

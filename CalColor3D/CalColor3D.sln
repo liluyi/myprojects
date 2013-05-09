@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalColor3D", "CalColor3D\CalColor3D.vcproj", "{53EE0EEA-3E9C-4CFE-A21E-7C7350BDD167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53EE0EEA-3E9C-4CFE-A21E-7C7350BDD167}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53EE0EEA-3E9C-4CFE-A21E-7C7350BDD167}.Debug|Win32.Build.0 = Debug|Win32
+		{53EE0EEA-3E9C-4CFE-A21E-7C7350BDD167}.Release|Win32.ActiveCfg = Release|Win32
+		{53EE0EEA-3E9C-4CFE-A21E-7C7350BDD167}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
